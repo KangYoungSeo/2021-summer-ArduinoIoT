@@ -12,7 +12,11 @@
     off 된다.
 <br><br><br>
 
+#사용된 아두이노 부품
+센서 : 조도센서 , 인체감지센서
 
-<아두이노 회로도><br>
+#아두이노 회로도<br>
 ![image](https://user-images.githubusercontent.com/68414594/127202326-0cf6bd10-d64c-492f-bcb5-1b2fb77fd304.png)
 ![image](https://user-images.githubusercontent.com/68414594/127202342-4f889cb6-1893-4de7-a29a-d20aa3f689e9.png)
+
+
